@@ -30,17 +30,17 @@ Choose one noun in your list, and then choose one adjective from the (short!) li
 -magnus, magna, magnum: great, large
 -draconis m: serpent, dragon
         SG.         PL.
-Nom.  draco	    dracones         
+Nom.  draco	       dracones         
 Gen.	draconis	draconum
-Dat.	draconi	  draconibus
-Acc.	draconem	dracones
-Voc.	draco	    dracones
-Abl.	dracone	  draconibus
-Nom.	magnus	  magni
-Gen.	magni	    magnorum
-Dat.	magno	    magnis
-Acc.	magnum	  magnos
-Abl.  magnno    magnis
+Dat.	draconi	   draconibus
+Acc.	draconem   dracones
+Voc.	draco	   dracones
+Abl.	dracone	   draconibus
+Nom.	magnus	   magni
+Gen.	magni	   magnorum
+Dat.	magno	   magnis
+Acc.	magnum	   magnos
+Abl.  magnno       magnis
 
 
 
