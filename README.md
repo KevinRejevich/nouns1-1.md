@@ -40,7 +40,7 @@ Nom.	magnus	   magni
 Gen.	magni	   magnorum
 Dat.	magno	   magnis
 Acc.	magnum	   magnos
-Abl.  magnno       magnis
+Abl.    magnno     magnis
 
 
 
